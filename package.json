@@ -1,0 +1,19 @@
+{
+  "name": "com.androidhivenew.plugins.hybrid",
+  "version": "1.0.0",
+  "description": "To save Marketing platform data",
+  "cordova": {
+    "id": "com.androidhivenew.plugins.hybrid",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "Jayashree",
+  "license": "ISC"
+}
